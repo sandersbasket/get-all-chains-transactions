@@ -1,0 +1,7 @@
+{
+    "sleep": 10,
+    "file": "./addresses.txt",
+    "out": "./result.txt",
+    "proxy_file": "./proxy.txt",
+    "threads": 2
+}
